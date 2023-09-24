@@ -29,7 +29,7 @@ Enlace a otro markdown que tengo dentro del repositorio:
 
 Creamos la tabla
 
-|#primer encabezado|segundo encabezado
+|primer encabezado|segundo encabezado
 |---------------------|------------------|
 | 1º linea primer encabezado| 2º linea segundo encabezado
 |más texto añadido| para completar la tabla
