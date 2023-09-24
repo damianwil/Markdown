@@ -1,12 +1,14 @@
+
 #Mi título principal
+
 ## Esto son los subtitulos
 
 
-**esta primera línea te la escribo en negrita**
-*esta siguiente en cursiva*
+**Esta primera línea te la escribo en negrita**
+,*esta siguiente en cursiva*
 y la siguiente que pondré abajo en código
 ```
-print "este texto esta escrito con código"
+este texto esta escrito con código
 ```
 
 1. PRIMER ITEM LISTA ORDENADA
@@ -23,11 +25,11 @@ Enlace a web externa:
 Enlace a otro markdown que tengo dentro del repositorio:
 [title](https://github.com/damianwil/Markdown/blob/main/README.md)
 
-![imagen de prueba](/home/damian/Escritorio/Markdown/Markdown/imagen.jpg)
+![imagen de prueba](imagen.jpg)
 
 Creamos la tabla
 
-|#primer encabezado|#segundo encabezado
+|#primer encabezado|segundo encabezado
 |---------------------|------------------|
-| aqui no se como se ve| y aqui tampoco
-|más texto añadido| y para completar la tabla
+| 1º linea primer encabezado| 2º linea segundo encabezado
+|más texto añadido| para completar la tabla
