@@ -1,4 +1,4 @@
-
+### porque se ven mal
 #Mi título principal
 
 ## Esto son los subtitulos
@@ -7,10 +7,10 @@
 **Esta primera línea te la escribo en negrita**
 ,*esta siguiente en cursiva*
 y la siguiente que pondré abajo en código
+```pyton
+# Este texto esta escrito con código
+print("hola mundo")
 ```
-este texto esta escrito con código
-```
-
 1. PRIMER ITEM LISTA ORDENADA
 2. SEGUNDO ITEM LISTA ORDENADA
 3. TERCER ITEM LISA ORDENADA
