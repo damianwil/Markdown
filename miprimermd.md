@@ -5,7 +5,9 @@
 **esta primera línea te la escribo en negrita**
 *esta siguiente en cursiva*
 y la siguiente que pondré abajo en código
-`print "este texto esta escrito con código"`
+```
+print "este texto esta escrito con código"
+```
 
 1. PRIMER ITEM LISTA ORDENADA
 2. SEGUNDO ITEM LISTA ORDENADA
@@ -19,9 +21,9 @@ Enlace a web externa:
 [title](http://www.google.com)
 
 Enlace a otro markdown que tengo dentro del repositorio:
-[title]https://github.com/damianwil/Markdown/blob/main/README.md
+[title](https://github.com/damianwil/Markdown/blob/main/README.md)
 
-![alt text](/home/damian/Escritorio/Markdown/Markdown/imagen.jpg)
+![imagen de prueba](/home/damian/Escritorio/Markdown/Markdown/imagen.jpg)
 
 Creamos la tabla
 
